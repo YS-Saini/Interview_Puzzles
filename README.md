@@ -1,6 +1,6 @@
 # Interview_Puzzles
 
-# Puzzles for Interview 
+### Try to solve them on your own
 1. **Playlist-01 | <a href="https://www.youtube.com/watch?v=KX7fDZQUtd0&list=PLhJlXtt17ABaJ5cBGr59shoQ6m0YNzgV3"> Click Here</a>**
 2. **Playlist-02 | <a href="https://www.youtube.com/watch?v=jLQnDC07040&list=PLLUqKY4VQM7ft3y1oFdlfc44Ob7Uqk5K0"> Click Here</a>**
 3. **Playlist-03 | <a href="https://www.youtube.com/watch?v=J9CVEe48Pr4&list=PLJ0OSCymthUyl7YRpq2-wJkTUprKsvA86"> Click Here</a>**
